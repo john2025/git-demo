@@ -11,5 +11,7 @@ public class MainTest {
 
         System.out.println("Test master");
 
+        System.out.println("Test Test");
+
     }
 }
